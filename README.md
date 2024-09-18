@@ -1,6 +1,8 @@
 # Clasificación Multiclase en el Conjunto de Datos Iris usando Regresión Logística
 
-## Este proyecto implementa un modelo de Regresión Logística Multiclase para clasificar las especies de plantas en el famoso conjunto de datos Iris. El algoritmo utiliza un enfoque de regresión logística multinomial para manejar la clasificación de tres clases y emplea validación cruzada para evaluar el rendimiento del modelo. El conjunto de datos contiene las siguientes características:
+Este proyecto implementa un modelo de Regresión Logística Multiclase para clasificar las especies de plantas en el famoso conjunto de datos Iris. El algoritmo utiliza un enfoque de regresión logística multinomial para manejar la clasificación de tres clases y emplea validación cruzada para evaluar el rendimiento del modelo. 
+
+## El conjunto de datos contiene las siguientes características:
 
     SepalLengthCm (Longitud del sépalo en cm)
     SepalWidthCm (Ancho del sépalo en cm)
